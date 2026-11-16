@@ -37,15 +37,6 @@ The project uses the Brazilian Olist E-Commerce dataset.
 - The late delivery rate was approximately 8.11%.
 - Seller performance varied significantly across sellers.
 
-## Dashboard Preview
-![Category Analysis](reports/category_analysis.png)
-
-![Seller Performance](reports/seller_performance.png)
-
-![Delivery Performance](reports/delivery_performance.png)
-
-![Customer Experience](reports/customer_experience.png)
-
 ## Currency Conversion
 Revenue values are converted from Brazilian Real (BRL) to Indian Rupees (INR) using an approximate fixed rate of ₹17.25 per BRL for analytical convenience.
 
@@ -59,3 +50,7 @@ Revenue values are converted from Brazilian Real (BRL) to Indian Rupees (INR) us
 Ujjwal Pandey
 
 B.Tech Information Technology
+
+## Dashboard Preview
+
+![E-commerce Dashboard](reports/app/dashboard_overview.png)
